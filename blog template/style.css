@@ -1,0 +1,14 @@
+.navbar{
+    opacity: 0.9;
+}
+.jumbotron{
+    margin-top: 55px;
+    opacity: 0.9;
+    padding: 20px 0;
+}
+.hover:hover{
+    text-decoration: underline !important;
+}
+footer{
+    opacity: 0.9;
+}
